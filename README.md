@@ -24,18 +24,6 @@ The goal was to create a clean, visually appealing, and user-friendly interface 
 
 ---
 
-## 🤖 Use of AI
-AI tools were used for:
-- Content planning and structuring
-- UI layout ideas
-- Section organization and text generation
-
----
-
-## 📸 Screenshots
-(Add your screenshots here if needed)
-
----
 
 ## ⚙️ How to Run Locally
 
