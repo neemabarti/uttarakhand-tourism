@@ -1,16 +1,46 @@
-# React + Vite
+# Explore Uttarakhand – Tourism Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Project Overview
+This project is a tourism website designed to help users explore popular destinations, travel categories, itineraries, and essential travel information for Uttarakhand.
 
-Currently, two official plugins are available:
+The goal was to create a clean, visually appealing, and user-friendly interface that makes trip planning simple and engaging.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
+- Hero section with call-to-action
+- Popular destinations section
+- Travel category cards
+- Featured 3-day itinerary
+- Travel tips section
+- Contact form UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React (Vite)
+- CSS
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🤖 Use of AI
+AI tools were used for:
+- Content planning and structuring
+- UI layout ideas
+- Section organization and text generation
+
+---
+
+## 📸 Screenshots
+(Add your screenshots here if needed)
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/neemabarti/uttarakhand-tourism.git
+2. Navigate to the project folder: cd uttarakhand-tourism
+3. Install dependencies:npm install
+4. Start the development server:npm run dev
